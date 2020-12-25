@@ -1,0 +1,16 @@
+.app {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.justify-content-between {
+  justify-content: space-between;
+}
+
+.align-items-center {
+  align-items: center;
+}
